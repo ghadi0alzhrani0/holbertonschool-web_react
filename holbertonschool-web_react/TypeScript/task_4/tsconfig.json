@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "none",
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "strict": true,
+    "outFile": "dist/subjects.js",
+    "forceConsistentCasingInFileNames": true
+  },
+  "files": [
+    "js/subjects/Teacher.ts",
+    "js/subjects/Subject.ts",
+    "js/subjects/Cpp.ts",
+    "js/subjects/React.ts",
+    "js/subjects/Java.ts",
+    "js/main.ts"
+  ]
+}
